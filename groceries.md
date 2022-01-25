@@ -1,8 +1,9 @@
+
 # Grocery List
 
 This is my grocery list for today.
 
-## Groceries
+i## Groceries
 
 ### Fruits
 
@@ -25,3 +26,6 @@ This is my grocery list for today.
 ### Beverages
 
 - [X] Coffee
+  [X] Tea
+  [X] Soft drink
+:
