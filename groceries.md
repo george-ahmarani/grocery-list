@@ -16,3 +16,12 @@ This is my grocery list for today.
 - [X] Tomato
 - [ ] Lettuce
 - [ ] Radishes
+
+### Sweets
+
+- [X] Chocolate Cake
+- [X] Whipped Cream
+
+### Beverages
+
+- [X] Coffee
