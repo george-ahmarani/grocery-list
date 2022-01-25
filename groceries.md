@@ -9,6 +9,7 @@ This is my grocery list for today.
 - [X] Orange
 - [ ] Banana
 - [ ] Apricots
+- [ ] Strawberries
 
 ### Vegetables
 
