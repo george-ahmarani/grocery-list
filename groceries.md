@@ -8,8 +8,11 @@ This is my grocery list for today.
 
 - [X] Orange
 - [ ] Banana
+- [ ] Apricots
 
 ### Vegetables
 
 - [x] Onions
 - [X] Tomato
+- [ ] Lettuce
+- [ ] Radishes
